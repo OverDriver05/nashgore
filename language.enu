@@ -25,6 +25,9 @@ NASHGOREMNU_MISC_DEATHFLIP = "Flip Death Sprite";
 NASHGOREMNU_MISC_SQUISH = "Squish Effect";
 NASHGOREMNU_MISC_ICEDEATH = "Ice Effects";
 NASHGOREMNU_MISC_SPLAT = "Fall Splat";
+NASHGOREMNU_MISC_ROCKET = "Rockets Always Gib";
+NASHGOREMNU_MISC_SSG = "SSG Gibs";
+NASHGOREMNU_MISC_BFG = "BFG Tracers Always Gib";
 
 NASHGOREMNU_CONTROLS_CLEARGORE = "Clear Gore Effects";
 
@@ -54,6 +57,9 @@ NASHGOREMNU_HELPTEXT_MISC_DEATHFLIP = "Randomly flip sprite upon death.";
 NASHGOREMNU_HELPTEXT_MISC_SQUISH = "Enable squishy flesh when corpse is crushed.";
 NASHGOREMNU_HELPTEXT_MISC_ICEDEATH = "Enhanced effects upon breaking a frozen enemy.";
 NASHGOREMNU_HELPTEXT_MISC_SPLAT = "Enable splat effect when corpse falls from tall height.";
+NASHGOREMNU_HELPTEXT_MISC_ROCKET = "Enable rockets and splash damage always gibs monsters.";
+NASHGOREMNU_HELPTEXT_MISC_BFG = "Enable BFG tracers always gibs lesser monsters.";
+NASHGOREMNU_HELPTEXT_MISC_SSG = "Enable SSG gibs lesser monsters at point-blank range.";
 NASHGOREMNU_HELPTEXT_MISC_CLEARGORENOW = "Removes all gore effects immediately.";
 
 NASHGOREMNU_HELPTEXT_CONTROLS_CLEARGORE = "Key bind to remove all gore objects.";

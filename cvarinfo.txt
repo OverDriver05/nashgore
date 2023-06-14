@@ -11,3 +11,6 @@ server bool nashgore_deathflip = true;
 server bool nashgore_squish = true;
 server bool nashgore_icedeath = true;
 server bool nashgore_splat = true;
+server bool nashgore_rocket = true;
+server bool nashgore_bfg = true;
+server bool nashgore_ssg = true;
